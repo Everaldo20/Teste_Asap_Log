@@ -1,0 +1,14 @@
+{
+  "name": "avaliacao_pratica",
+  "version": "1.0.0",
+  "description": "Avaliacao Pratica Asap Log",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Everaldo Barros",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.3.0"
+  }
+}
